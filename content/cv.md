@@ -22,7 +22,8 @@ Not actively seeking a new role right now, but my ideal:
 
 - Team leadership and building
 - Strong written and verbal communications, including explaining technical concepts and tradeoffs to folks with other backgrounds and negotiating with stakeholders and suppliers
-- Business case developmentProgramming: primarily back-end in Python and Perl, with some Ruby on Rails and PHP. Basic Javascript. HTML and CSS.
+- Business case development
+- Programming: primarily back-end in Python and Perl, with some Ruby on Rails and PHP. Basic Javascript. HTML and CSS.
 - Database design and implementation: mainly with MySQL and derivatives of late, but also Sybase and some PostgreSQL. Experience as a DBA.
 - Web accessibility, testing and remediation
 - Infrastructure architecture design, implementation, and maintenance
