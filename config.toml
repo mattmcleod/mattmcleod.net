@@ -1,4 +1,4 @@
-baseurl = "https://mattmcleod.net"
+baseurl = "https://mattmcleod.github.io"
 title = "Matt McLeod"
 languageCode = "en-us"
 # Add it only if you keep the theme in the `themes` directory.
@@ -90,7 +90,7 @@ paginate = 5
         url = "/posts/about/"
       [[languages.en.menu.main]]
         identifier = "blog"
-        name = "Bloe"
+        name = "Blog"
         url = "/"
       [[languages.en.menu.main]]
         identifier = "cv"
