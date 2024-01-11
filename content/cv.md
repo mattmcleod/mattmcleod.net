@@ -16,7 +16,7 @@ Not actively seeking a new role right now, but open to opportunties for my next 
 
 - a more senior role in a larger infrastructure team, e.g., head of infra
 - a more senior role in a smaller engineering team, e.g., head of engineering
-- perhaps a similar role but in more general software engineering team
+- perhaps a similar role but in a more general software engineering team
 - or if you've got the dollarydoos and want to build a kick-ass accessibility testing toolkit, I'd absolutely be up for that
 
 ## Skills
