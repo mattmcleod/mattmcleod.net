@@ -12,12 +12,12 @@ Honesty, integrity, and maintaing an inclusive culture are very important to me.
 
 ## What I'm looking for
 
-Not actively seeking a new role right now, but my ideal:
+Not actively seeking a new role right now, but open to opportunties for my next career move. This might include things like:
 
-- an excellent, fairly laid-back, blame-free, supportive and diverse culture
-- a mission I can get behind
-- 100% remote
-- would consider going back to a technical role, but am finding a lot of satisfaction in supporting my folks to be the best they can
+- a more senior role in a larger infrastructure team, e.g., head of infra
+- a more senior role in a smaller engineering team, e.g., head of engineering
+- perhaps a similar role but in more general software engineering team
+- or if you've got the dollarydoos and want to build a kick-ass accessibility testing toolkit, I'd absolutely be up for that
 
 ## Skills
 
