@@ -68,7 +68,7 @@ canonifyURLs = true
   [languages.en]
     languageName = "English"
     title = "Matt McLeod"
-    subtitle = "A simple, retro theme for Hugo"
+    subtitle = "Some bloke"
     owner = "Matt McLeod"
     keywords = ""
     copyright = ""
