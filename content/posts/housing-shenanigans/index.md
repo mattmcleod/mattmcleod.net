@@ -9,13 +9,13 @@ showFullContent: true
 
 We recently move again, for the second time in three years. It's bloody irritating.
 
-The first time, we were living in an apartment in the middle eastern subrubs of Melbourne. Very affluent area. Not perfect by any stretch, but we had community of a sort and some very lovely gardens.
+The first time, we were living in an apartment in the middle eastern suburbs of Melbourne. Very affluent area. Not perfect by any stretch, but we had community of a sort and some very lovely gardens.
 
-Getting close to lease renewal time, no word from the landlord, so A. starts looking at alternatives. Turns out the landlord wants to sell up. We can buy if we like, for a ludicrously-inflacted price. Had the plac valued anyway, to help guide our decision-making.
+Getting close to lease renewal time, no word from the landlord, so A. starts looking at alternatives. Turns out the landlord wants to sell up. We can buy if we like, for a ludicrously-inflated price. Had the place valued anyway, to help guide our decision-making.
 
 Agent claimed owner wasn't interested in anything under his initial asking price. We moved. They got what we'd offered, a full $150k under the initial asking.
 
-Second place, nice McMansion in the outer western subrubsa. Four bedrooms plus two living rooms and a spare kitchen in the laundry. Clearly intended as an intergenerational home. A. made some friends, found some community again, basically all good.
+Second place, nice McMansion in the outer western suburbs. Four bedrooms plus two living rooms and a spare kitchen in the laundry. Clearly intended as an inter-generational home. A. made some friends, found some community again, basically all good.
 
 This time after two years the owner turned out to be in serious financial difficulty, having over-extended on property speculation. We had another year to run on the lease, and legally we could've been dicks about it, but:
 
@@ -24,7 +24,7 @@ This time after two years the owner turned out to be in serious financial diffic
 
 Anyway. We started looking again. Then A. poses the question: "why don't we buy?".
 
-Now, I've assumed for a long time that this was beyond reach. I make pretty good money -- nothing compared to the Silicon Valley startup types, despite the similar risk profile in my employment -- but I'm over 50 now, and while we're mostly debt-free houses in Australia are stupdily expensive. But we took a look, and I ran some numbers, and hm, maybe?
+Now, I've assumed for a long time that this was beyond reach. I make pretty good money -- nothing compared to the Silicon Valley startup types, despite the similar risk profile in my employment -- but I'm over 50 now, and while we're mostly debt-free houses in Australia are stupidly expensive. But we took a look, and I ran some numbers, and hm, maybe?
 
 A colleague referred me to a mortgage broker to chat with, we figured out a budget -- pretty low for Melbourne but with some compromises doable on the very outer western fringe -- and it looks doable!
 
