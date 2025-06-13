@@ -36,8 +36,11 @@ Not actively seeking a new role right now, but open to opportunties for my next 
 _February 2022 to present_
 
 Engineering Manager responsible initially for operations, data science, and design systems teams. After a restructure responsible for Platform Excellence and Customer Health value streams.
+
 There's a strong cost control aspect to the role, a lot of liaising with the CFO, CTO, and vendors (e.g., AWS, Elastic) to ensure no big surprises.
+
 Because of my extensive experience in infrastructure and operations work I've taken both a people- and technical-leadership role for my teams.
+
 I've been part of the Product and Technology Leadership team alongside the CTO, CPO, head of design, and the other EMs in the organisation.
 
 #### Key accomplisments:
