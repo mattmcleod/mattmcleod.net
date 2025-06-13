@@ -1,6 +1,6 @@
 ---
 title: "CV"
-date: 2023-03-25T18:24:56+11:00
+date: 2025-06-13
 draft: false
 Toc: true
 ---
@@ -23,12 +23,12 @@ Not actively seeking a new role right now, but open to opportunties for my next 
 
 - Team leadership and building
 - Strong written and verbal communications, including explaining technical concepts and tradeoffs to folks with other backgrounds and negotiating with stakeholders and suppliers
+- Cloud "finops": keeping a lid on spending without sacrificing reliability and security
 - Business case development
 - Programming: primarily back-end in Python and Perl, with some Ruby on Rails and PHP. Basic Javascript. HTML and CSS.
 - Database design and implementation: mainly with MySQL and derivatives of late, but also Sybase and some PostgreSQL. Experience as a DBA.
 - Web accessibility, testing and remediation
 - Infrastructure architecture design, implementation, and maintenance
-- Certified SCRUM Master
 
 ## Employment History
 
@@ -36,16 +36,16 @@ Not actively seeking a new role right now, but open to opportunties for my next 
 _February 2022 to present_
 
 Engineering Manager responsible initially for operations, data science, and design systems teams. After a restructure responsible for Platform Excellence and Customer Health value streams.
+There's a strong cost control aspect to the role, a lot of liaising with the CFO, CTO, and vendors (e.g., AWS, Elastic) to ensure no big surprises.
 Because of my extensive experience in infrastructure and operations work I've taken both a people- and technical-leadership role for my teams.
+I've been part of the Product and Technology Leadership team alongside the CTO, CPO, head of design, and the other EMs in the organisation.
 
 #### Key accomplisments:
-- excellent feedback from my managers, peers, and reports, as well as from other departments (e.g., legal, customer success, security)
-- expanded data team from two people to five, adding data engineers to build and manage the new data platform which was launched on time despite challenges
-- managed my teams through the restructure and out the other end, helping people cope with the uncertainty and ruffled feathers
-- delivering on high profile and very tight deadline major project (still under NDA) in the middle of the re-organisation
+- excellent feedback from my managers, peers, and reports, as well as from other departments (e.g., legal, customer success, security, finance)
+- delivering on high profile and very tight deadline major client projects
 - hiring good people to expand the Platform team
-- establishing an SRE team
 - significant infrastructure cost savings without degrading the platform
+- aided our Security and Compliance folks with attaining and maintaining SOC2 and ISO27001 certifications
 
 ### Marketplacer, Senior Developer
 _January 2020 to February 2022_
